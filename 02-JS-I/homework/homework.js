@@ -231,3 +231,41 @@ function esVocal(letra){
   return "Dato incorrecto"
 }
 
+// No modificar nada debajo de esta línea
+// --------------------------------
+
+module.exports = {
+  nuevaString,
+  nuevoNum,
+  nuevoBool,
+  nuevaResta,
+  nuevaMultiplicacion,
+  nuevoModulo,
+  devolverString,
+  tienenMismaLongitud,
+  sonIguales,
+  menosQueNoventa,
+  mayorQueCincuenta,
+  suma,
+  resta,
+  divide,
+  multiplica,
+  obtenerResto,
+  esPar,
+  esImpar,
+  elevarAlCuadrado,
+  elevarAlCubo,
+  elevar,
+  redondearNumero,
+  redondearHaciaArriba,
+  numeroRandom,
+  esPositivo,
+  agregarSimboloExclamacion,
+  combinarNombres,
+  obtenerSaludo,
+  obtenerAreaRectangulo,
+  retornarPerimetro,
+  areaDelTriangulo,
+  deEuroAdolar,
+  esVocal,
+}
