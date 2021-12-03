@@ -1,0 +1,26 @@
+  
+       html h1 {
+             color: purple;
+        }
+        img {
+            width: 400px;
+        }
+        #thirdDiv {
+            height: 600px;
+            width: 500px;
+            background-color: burlywood;
+            padding: 50px;
+            
+        }
+        .divClass {
+            width: 85%;
+            line-height: 1.50rem;
+            font-size: 18px;
+            margin: 50px;
+            padding: 10px;
+            max-width: 850px;
+        }
+        
+    body {
+        background-image: url(https://image.freepik.com/foto-gratis/fusion-superficie-bambu-blanco-negro-fondo_7182-2053.jpg);
+    }
